@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10970238",
+      "name": "Dropbox",
+      "font_class": "Dropbox",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11125228",
+      "name": "订单",
+      "font_class": "6",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "11125229",
+      "name": "会员",
+      "font_class": "7",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "11125287",
+      "name": "收银台",
+      "font_class": "12",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
